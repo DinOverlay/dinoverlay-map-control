@@ -1,0 +1,6 @@
+{
+  "bloqueado": false,
+  "mensaje_bloqueo": "Programa bloqueado debido a que la administración del servidor no quiere que usen este tipo de overlay",
+  "version_actual": "1.0.0",
+  "url_descarga": "https://github.com/DinOverlay/dinoverlay-map-control/releases/download/v1.0.0/DinOverlay_code.exe"
+}
